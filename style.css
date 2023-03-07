@@ -346,6 +346,11 @@ border-radius: .5rem;
   color: #eee;
   padding: 1rem 0;
 }
+.review .box-container .box .stars i{
+  color: gold;
+  font-size: 1.7rem;
+  padding: 1rem .1rem;
+}
 
 .order .row{
   padding:2rem;
